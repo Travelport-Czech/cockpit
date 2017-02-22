@@ -1,0 +1,10 @@
+{
+    "name": "traveport-czech/cockpit",
+    "authors": [
+        {
+            "name": "Mise",
+            "email": "miroslav.sedlacek@travelportgds.cz"
+        }
+    ],
+    "require": {}
+}
